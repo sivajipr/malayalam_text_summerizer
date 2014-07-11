@@ -1,0 +1,141 @@
+%% TnT statistically tagged file, Mon Jan 20 13:25:56 2014
+%% lexicon     : corpus.lex
+%% ngrams      : corpus.123
+%% corpus      : test
+%% model       : trigrams
+%% sparse data : linear interpolation
+%%   lambda1 = 1.940293e-01   lambda2 = 2.692814e-01   lambda3 = 5.366894e-01
+%% unknown mode: statistics of singletons
+%% case of characters is significant
+%% using suffix trie up to length 10
+%% suffix backoff with theta = 9.390013e-02
+%% Thorsten Brants, thorsten@brants.net
+കൊച്ചി:	RD_PUNC
+സംസ്ഥാനം	N_NN
+വിദ്യാഭ്യാസ	N_NN
+വകുപ്പിന്റെ	N_NN
+നേരിട്ടുള്ള	N_NN
+നിയന്ത്രണത്തില്‍	N_NN
+പ്രവര്‍ത്തിക്കുന്ന	V_VM_VNF
+ഭാരത്		V_VM_VNF
+സ്‌കൗട്‌സ്	N_NNP
+ആന്‍ഡ്	N_NN
+ഗൈഡ്‌സിന്റെ	N_NN
+പ്രവര്‍ത്തനം	N_NN_S_NU
+ഹയര്‍സെക്കന്‍ഡറി	QT_QTC
+വിഭാഗത്തില്‍	N_NN
+കൂടി		PSP
+വ്യാപിപ്പിച്ച്	V_VM_VNF
+സര്‍ക്കാര്‍	N_NN
+ഉത്തരവായി	N_NN
+ഇതുവരെ	N_NN
+പത്താം	QT_QTO
+ക്ലാസ്	N_NNP
+വരെ		PSP
+മാത്രമേ	RP_RPD
+സ്‌കൗട്‌സ്	N_NN
+ആന്‍ഡ്	N_NN
+ഗൈഡ്‌സ്	N_NN
+ഉണ്ടായിരുന്നുള്ളൂ.	N_NN
+ഹയര്‍		N_NNP
+സെക്കന്‍ഡറി	PSP
+സ്‌കൂളുകളിലെ	N_NNP
+കൗമാരക്കാരായ	N_NN
+വിദ്യാര്‍ഥികളില്‍	N_NN_S_NU
+ഉത്തമ		N_NNP
+പൗരബോധം	N_NN_O_NU
+സൃഷ്ടിക്കാനും	V_VM_VNF
+ജാതി-മത-വര്‍ഗ-ഭാഷാ	N_NN
+വ്യത്യാസങ്ങള്‍ക്ക്	N_NN_S_NU
+അതീതമായ	JJ
+സമ്പൂര്‍ണ	N_NN
+വ്യക്തിത്വ	JJ
+വികാസം	V_VN_O_NU
+ഉണ്ടാക്കാനും	V_VM_VNF
+സ്‌കൗട്‌സ്	N_NN
+ആന്‍ഡ്	N_NN
+ഗൈഡ്‌സിന്റെ	N_NN
+പ്രവര്‍ത്തനം	N_NN_S_NU
+ഇടയാക്കുമെന്ന	V_VM_VNF
+ഹയര്‍		N_NNP
+സെക്കന്‍ഡറി	N_NN
+ഡയറക്ടറുടെ	N_NN
+നിര്‍ദേശം	N_NN_O_NU
+പരിഗണിച്ചാണ്	V_VAUX
+സര്‍ക്കാര്‍	N_NN
+ഉത്തരവ്	V_VM_VNF
+സമൂഹ		N_NN_S_NU
+നന്മയെ	N_NN_O_F
+ലക്ഷ്യമാക്കി	N_NN
+അര്‍പ്പണ	N_NN
+ബോധത്തോടെ	N_NN
+പ്രവര്‍ത്തിക്കാന്‍	V_VM_VNF
+കുട്ടികളെ	N_NN_O_NU
+സജ്ജമാക്കുന്ന	V_VM_VNF
+പ്രസ്ഥാനം	N_NN
+കൂടിയാണിത്	V_VM_VNF
+ഡയറക്ടറുടെ	N_NN
+കത്തില്‍	N_NN_S_NU
+പറഞ്ഞിട്ടുള്ള	JJ
+നിബന്ധനകള്‍	N_NN_O_NU
+കൂടി		PSP
+പരിഗണിച്ച്	V_VM_VNF
+സ്‌കൗട്‌സ്	N_NNP
+ആന്‍ഡ്	N_NN
+ഗൈഡ്‌സിന്റെ	N_NN
+പ്രവര്‍ത്തനം	N_NN_S_NU
+ഹയര്‍		N_NNP
+സെക്കന്‍ഡറിയില്‍	N_NN_O_NU
+വ്യാപിപ്പിക്കാമെന്ന്	QT_QTC
+എസ്.സി.ഇ.ആര്‍.ടി.ഡയറക്ടറും	N_NN
+ശുപാര്‍ശ	N_NN
+ചെയ്തിരുന്നു.	V_VM_VNF
+ഹയര്‍		N_NNP
+സെക്കന്‍ഡറി	PSP
+സ്‌കൂളിലെ	N_NNP
+സ്‌കൗട്‌സ്	N_NNP
+ആന്‍ഡ്	N_NN
+ഗൈഡ്‌സ്	N_NNP
+യൂണിറ്റിന്റെ	N_NN
+പ്രവര്‍ത്തനം	N_NN_S_NU
+ഹയര്‍		N_NNP
+സെക്കന്‍ഡറി	N_NNP
+വിദ്യാഭ്യാസ	N_NN
+ഡയറക്ടറുടെ	N_NN
+മേല്‍നോട്ടത്തിലും	V_VM_VINF
+നിരീക്ഷണത്തിലുമാകും	N_NN
+നടക്കുക	V_VM_VINF
+ഡയറക്ടറുടെ	N_NN
+അനുവാദത്തോടെ	N_NN
+മാത്രമേ	RP_RPD
+ഹയര്‍		N_NNP
+സെക്കന്‍ഡറി	N_NNP
+വിഭാഗത്തില്‍	N_NN
+യൂണിറ്റ്	N_NN
+ഉണ്ടാക്കാന്‍	V_VM_VNF
+പാടുള്ളൂ	N_NNP
+യൂണിറ്റുകളുടെ	N_NN
+പ്രവര്‍ത്തനങ്ങള്‍	N_NN_S_NU
+ഡയറക്ടറുടെ	N_NN
+നേതൃത്വത്തിലുള്ള	JJ
+സമിതി		N_NN_O_NU
+വിലയിരുത്തും	N_NN
+ഹയര്‍		N_NNP
+സെക്കന്‍ഡറി	N_NN
+ഡയറക്ടറേറ്റില്‍	N_NN_S_NU
+പ്രവര്‍ത്തിക്കുന്ന	V_VM_VNF
+കരിയര്‍	N_NNP
+ഗൈഡന്‍സ്	N_NNP
+ആന്‍ഡ്	N_NN
+അഡോളസെന്‍റ്	N_NN_S_NU
+കൗണ്‍സലിങ്	N_NNP
+സെല്ലിന്റെ	N_NN
+നേതൃത്വത്തിലാണ്	V_VAUX
+ഹയര്‍		N_NNP
+സെക്കന്‍ഡറിയില്‍	N_NN
+പ്രവര്‍ത്തനങ്ങള്‍	N_NN_S_NU
+നടത്തേണ്ടതെന്ന്	QT_QTC
+ഉത്തരവില്‍	N_NN
+പറയുന്നു.	V_VM_VF
+%% 106 (83.46%) unknown tokens
+%% avg. 23.01 tags/token, 1.90 tags/known token
